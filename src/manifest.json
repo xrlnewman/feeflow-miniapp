@@ -1,0 +1,10 @@
+{
+  "name": "FeeFlow 企业费控工作台",
+  "appid": "__UNI__FEEFLOW",
+  "description": "免费开源的报销、审批、付款与预算工作台",
+  "versionName": "0.1.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "mp-weixin": { "appid": "touristappid", "setting": { "urlCheck": false } }
+}
+
